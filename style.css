@@ -1,0 +1,103 @@
+body{
+	background-color: #7A6C5D;
+	font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+	color:#31081F;
+	font-family: 'Libre Baskerville', serif;
+}
+
+h2{
+	color: #31081F;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 20px;
+
+}
+
+a{
+	text-decoration: none;
+	colore: #31081F
+	font-family: 'Libre Baskerville', serif;
+}
+
+a:visited {
+	color: #31081F;
+}
+
+div
+{background-color:#7A6C5D;
+	padding:25px;
+	margin:50px;
+	border-radius: 5px;
+	box-shadow: 10px 9px 35px rgba(0,0,0,0.2);
+	text-align:center;
+	border-color: 30px;
+}
+p {
+	padding-bottom: 10px;
+	margin: 10px, 10px;
+}
+
+
+jkj rodj
+
+.img-circle
+{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	margin:25px;
+}
+
+.conteiner
+{	width:850px;
+	margin: 0 auto;
+	border-radius: 100px; 
+	padding:20px 20px;
+}
+
+.btn-grey {background-color: grey; 
+	padding: 0px 20px;
+	border-radius: 5px;
+	margin: 40px, 50px;
+	border:10px;
+
+	}
+
+
+	 
+
+.card-braun {background-color:#7A6C5D;
+	padding:25px;
+	margin:50px;
+	border-radius: 30px;
+	box-shadow: 10px 9px 35px rgba(0,0,0,0.2);
+	text-align:center;
+	border-color: 30px;}
+	
+
+
+
+.list-inline{
+	padding-left:0;
+	list-style: none;
+}
+.list-inline li {
+	display: inline;
+	font-size:50px;
+}
+
+@media (max-width:855px){
+ .conteiner
+	 width:650px;
+	}
+}
+	
+ @media (max-width: 650px;){
+.conteiner
+width:450px;
+ }
+  }
+
+
